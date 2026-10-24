@@ -1,0 +1,14 @@
+# Virtual Environment
+dl_env/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
